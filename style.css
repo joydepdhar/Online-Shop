@@ -1,0 +1,72 @@
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.baclgroundColor{
+    background-color: #FFFBF0;
+    border-radius: 10px;
+}
+body{
+    padding: 50px;
+    font-family: 'Bebas Neue', cursive;
+    color: 363958;
+}
+.women-jacket{
+    padding: 10px;
+    margin: auto;
+    display: block;
+    background-color: #F1F1F1;
+    border-radius: 30px;
+
+}
+.women-jacket img{
+    width: 100%;
+}
+section{
+    padding-bottom: 100px;
+}
+.half-width-1{
+    width: 40%;
+    float: left;
+}
+.half-width-2{
+    width: 30%;
+    float: left;
+    width: 200px;
+    height: 50px;
+}
+.half-width-2 img{
+    widows: 82px;
+    height: 78px;
+}
+.half-width-1 img{
+    width: 100%;
+    padding-left: 50px;
+}
+.lastpart{
+    width: 40%;
+    float: left;
+}
+.lastpart img{
+    width: 150%;
+    padding: 50px;
+}
+.Images{
+    
+    margin: auto;
+    display: block;
+}
+.Images img{
+    width: 150%;
+}
+.images-card{
+    border-radius: 20px;
+    box-shadow: 5px 5px 50px 1px lightgray; 
+}
+.lastPartImg{
+    width: 33.33%;
+    float: left;
+}
